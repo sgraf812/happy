@@ -1,3 +1,5 @@
+{-# OPTIONS_GHC -Wno-x-partial #-}
+
 module Happy.Backend.LALR where
 
 import Paths_happy_backend_lalr
